@@ -189,8 +189,8 @@ h1:hover {
 
 img:hover {
     filter: grayscale(5%);
-    transition: transform 1s;
-    transform: scale(1.1);
+    transition: transform 2s;
+    transform: rotate(1turn);
 }
 
 footer {
